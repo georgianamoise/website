@@ -1,3 +1,2 @@
 # website
-Creating a website.
-This is a website that i created in a college class.
+This is a website that I created in a college class.

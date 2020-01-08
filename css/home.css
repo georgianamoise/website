@@ -1,0 +1,134 @@
+h1.text {
+    font-family: 'Overpass Mono', monospace;
+    color: #ED1F24;
+    font-size: 6vw;
+}
+
+li {list-style-type: none;}
+
+li a.text{
+    font-family: 'Overpass Mono', monospace;
+    color: #CCDB2A;
+    text-decoration: none;
+    font-size: 3vw;
+}
+
+.site-map .text{
+    font-family: 'Overpass Mono', monospace;
+    color: #59B947;
+    margin: 6vw 7vw 0 0;
+    text-decoration: none;
+    padding-top: 2vw;
+    font-size: 2vw;
+}
+
+p.paragraph{
+    padding: 6vw;
+    color: floralwhite;
+    margin: 1vw -32vw 0vw 0vw;
+}
+
+body{
+    background-image: url(../images/pinktama.png);
+    background-color: #8861A9;
+    opacity: 0.9;
+   
+}
+
+.container-content{
+    width: 60vw;
+    height: 100vw;
+    margin: 0 auto;
+    background-color: #C77BB3;
+    display: inline-block;
+}
+
+
+.container-top {
+    width: 60vw;
+    margin: 0 auto;
+    text-align: center;
+    display: inline-block;
+    background-color: #C77BB3;
+}
+
+.site-map{
+    background-color: #F2C4DB;
+    height: 5vw;
+    text-align: right;
+}
+
+.left{
+    background-color: #C77BB3;
+    width: 30vw;
+    display: inline-block ; 
+    padding-bottom: 48vw;
+}
+
+.right{
+    display: inline-block ;  
+    width: 37vw;
+    background-color: #F2C4DB;
+    padding-bottom: 51vw;
+    padding-right: 30vw;
+    margin: 0vw 0vw 0vw -8vw;
+}
+
+
+
+.images-container {
+    text-align: center;
+    display: inline-block;
+    margin: 6vw -24vw 0vw -1vw;
+    
+}
+
+.center-images{
+    width: 10vw;
+    display: inline-block;
+    padding: 2vw;
+    
+}
+
+.images-four{
+    width: 40vw;
+    display: inline-block;
+    padding: 1vw;
+}
+
+.bottom{
+    width: 100vw;
+    display: inline-block;
+}
+
+
+
+div.join-box{
+    background-color: floralwhite;
+    opacity: 0.8;
+    width: 15vw;
+    height: 2vw;
+    color: #C77BB3;
+    display: inline-block;
+}
+
+div.join-group{
+    margin: 3vw 0vw 0vw 37vw;
+    
+}
+
+.button{
+    background-color: #C77BB3;
+    color: aliceblue;
+}
+
+p.label{
+   color: #C77BB3;
+    display: inline-block;
+}
+
+.login-container{
+    display: inline-block;
+    margin: 10vw 0vw 0vw 7vw;
+
+}
